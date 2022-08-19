@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=chulwoo8747🎨&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=chulwoo0821🎨&fontSize=70&animation=twinkling)
